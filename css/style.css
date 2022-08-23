@@ -11,3 +11,7 @@ ul.border {
 ol.border {
     border-style: dashed;
 }
+
+img{
+    border-radius: 25px;
+}
