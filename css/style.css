@@ -3,15 +3,15 @@ body {
     font-family: cursive;
     font-size: large;
 }
-
+/* border around text */
 ul.border {
     border-style: dashed;
 }
-
+/* border around text */
 ol.border {
     border-style: dashed;
 }
-
+/* ronuded corner images  */
 img{
-    border-radius: 25px;
+    border-radius: 30px;
 }
