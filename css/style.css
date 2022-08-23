@@ -2,6 +2,7 @@ body {
     margin: 0%;
     font-family: cursive;
     font-size: large;
+    background-color: #ffe4c4;
 }
 /* border around text */
 ul.border {
